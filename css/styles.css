@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+img{
+    align-self: center;
+    width: 50%;
+}
+#Header{
+    height: 300px;
+}
+#ninios{
+    width: 75%;
+}
+#TituloPag{
+    font-family: 'Patrick Hand';
+    text-align: center;
+    text-shadow: 4px 4px 6px #023a20;
+}
+#MedAmbiente{
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+h1{
+    font-family: 'Righteous';
+    font-size: 60px;
+}
+h2{
+    font-family: 'Righteous';
+    font-size: 35px;
+}
+p{
+    font-size: 23px;
+    font-family: 'Patrick Hand';
+}
+a{
+    color: rgb(255, 255, 255);
+}

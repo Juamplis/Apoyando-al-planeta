@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@700&family=Permanent+Marker&family=Righteous&display=swap');
+#Frase1{
+    text-shadow: 2px 2px 4px black;
+}
+#Autor{
+    text-shadow: 2px 2px 4px black;
+}
+#Logo{
+    size: 5px;
+}
+.TitulosPermMark{
+    font-family: 'Kalam';
+    font-size: 40px;
+}
+#Impacto{
+    font-family: 'Righteous';
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+#Texto, #Texto2, #Texto3{
+    font-size: 19px;
+}
+#Practicas, #OurWork{
+    font-family: 'Permanent Marker';
+    font-size: 50px;
+}
+#Composta1, #Composta2{
+    height: 232px;
+}
+#Cbtis83{
+    height: 240px;
+}
+#Instagramid{
+    color: rgb(255, 255, 255);
+}
+#Instagram2{
+    color: white;
+}
